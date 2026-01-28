@@ -7,7 +7,8 @@ I am a graduate student in Computer Engineering at the Viterbi School of Enginee
 🌱 Currently learning Swift and iOS development  
 
 ## Hobbies
-- Exploring new technologies  
-- Traveling ✈️
+- Exploring new technologies
+- Tennis 🎾
+- Traveling 
 
 🔗 Portfolio: https://ycccccccccccc.github.io/my-page/

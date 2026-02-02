@@ -6,7 +6,7 @@
 
 ## Hobbies
 - Exploring new technologies
-- Tennis 🎾
+- Tennis 🎾 | Pilates | Yoga 🧘‍♀️
 - Traveling 
 
 🔗 Portfolio: https://ycccccccccccc.github.io/my-page/

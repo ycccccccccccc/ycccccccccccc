@@ -4,6 +4,12 @@
 💻 Background in full-stack development and AI systems  
 🌱 Currently learning Swift and iOS development  
 
+## Languages & Tools 🛠️
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,swift,react,nextjs,nodejs,fastapi,django,postgres,mongodb,redis,docker,aws,git,linux" />
+</p>
+
+
 ## Hobbies
 - Exploring new technologies
 - Tennis 🎾 | Pilates | Yoga 🧘‍♀️
